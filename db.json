@@ -4,7 +4,7 @@
             "id": 2,
             "title": "Non magni deleniti.",
             "slug": "repellat-in-magnam",
-            "content": "Excepturi illum labore illo doloribus quas sint dolorem sed. In quia consequatur et officia ut ut. Nostrum et quis quas dolorum. In commodi magni minima enim. Eum minus delectus tenetur voluptatem maiores sit est dolor quis. Quasi magni omnis. Amet rerum necessitatibus pariatur expedita qui ullam. Fuga ducimus cumque et qui qui quasi voluptatem. Dignissimos ut quisquam sint eius et. Aut qui sit.",
+            "content": "Excepturi illum labore illo doloribus.",
             "hit": 409819,
             "category": {
                 "id": 10
@@ -35,7 +35,7 @@
             "id": 3,
             "title": "Repudiandae fugit quis non fuga et dolorem ut.",
             "slug": "aut-consequuntur-voluptas",
-            "content": "Rem qui quia officiis ab cupiditate sit occaecati nemo. Hic modi repellendus. Perspiciatis sed mollitia. Tenetur quos earum consequatur maxime aspernatur quae. Facere et aut repellat nihil fuga molestiae nulla. Rerum sit provident dolore velit et porro voluptatem. Consequatur dolorem mollitia eos nobis consequatur saepe. Alias a veritatis voluptate ut molestiae consequuntur. Dolore sit reprehenderit esse a. Animi distinctio vel a ex iure excepturi atque asperiores excepturi.",
+            "content": "Rem qui quia officiis ab cupiditate sit occaecati nemo.",
             "hit": 832698,
             "category": {
                 "id": 4
@@ -60,130 +60,6 @@
                 3
             ],
             "language": 1
-        },
-        {
-            "id": 4,
-            "title": "Iure maxime facere.",
-            "slug": "eaque-quisquam-velit",
-            "content": "Mollitia nostrum unde voluptatum ipsa dolores qui quia voluptatibus impedit. Eum non voluptatibus asperiores aliquid. Nisi quis ducimus rerum necessitatibus voluptatem est quaerat harum enim. Rerum ab rem doloribus culpa hic. Dolorum consectetur nostrum eos sed et qui odit qui. Iusto quos adipisci est. Id qui quasi voluptatem quod voluptatem tempore et. Aut enim est accusamus. Qui saepe eos reprehenderit maiores temporibus deserunt. Quasi modi ut consequatur perferendis.",
-            "hit": 200002,
-            "category": {
-                "id": 4
-            },
-            "user": {
-                "id": 6
-            },
-            "status": "rejected",
-            "status_color": "red",
-            "createdAt": "2022-04-05T18:34:25.121Z",
-            "publishedAt": "2023-01-14T06:17:03.542Z",
-            "image": [
-                {
-                    "url": "http://loremflickr.com/640/480/abstract",
-                    "name": "6ed7c474-b77e-4445-92fc-1ca5b07d9f49",
-                    "status": "done",
-                    "type": "image/jpeg",
-                    "uid": "6044d7dc-33e9-4ede-8bd3-1807ac81f5c9"
-                }
-            ],
-            "tags": [
-                1,
-                6
-            ],
-            "language": 2
-        },
-        {
-            "id": 5,
-            "title": "Similique aliquam aut aliquam consequuntur impedit.",
-            "slug": "asperiores-et-dolorum",
-            "content": "Asperiores cupiditate enim. Quas possimus iure iusto aperiam maxime sed. Doloribus aut dolore necessitatibus ipsam sed omnis magnam ipsum quis. Odio autem repudiandae enim tempore. Voluptatem modi in nam. Ratione voluptatem nam reprehenderit adipisci recusandae aut repellendus consectetur. Ullam eum sequi sed harum minima quisquam. Odio impedit ex alias et quia eius sed cupiditate veniam. Laboriosam cum eius quisquam. Quos maxime deserunt.",
-            "hit": 66792,
-            "category": {
-                "id": 12
-            },
-            "user": {
-                "id": 9
-            },
-            "status": "draft",
-            "status_color": "orange",
-            "createdAt": "2023-01-15T18:55:21.591Z",
-            "publishedAt": "2022-09-30T21:47:17.962Z",
-            "image": [
-                {
-                    "url": "http://loremflickr.com/640/480/abstract",
-                    "name": "9dc1626b-e93a-4dd7-bcb7-d2ea48b2aead",
-                    "status": "done",
-                    "type": "image/jpeg",
-                    "uid": "fe5399b8-56ab-4e1b-b7d8-ada660d499b9"
-                }
-            ],
-            "tags": [
-                1,
-                8,
-                6
-            ],
-            "language": 2
-        },
-        {
-            "id": 6,
-            "title": "Deleniti qui possimus facere debitis rerum qui repellat.",
-            "slug": "rem-et-laudantium",
-            "content": "Voluptas exercitationem veritatis. Odio voluptatem blanditiis deleniti tempora ipsa incidunt. Aut ipsa qui. Dolorum cumque aut. Assumenda sunt placeat quod nihil perferendis autem dolorum. Enim et voluptatem quam nihil voluptas dolores inventore ipsum. Assumenda voluptatibus dolor. Velit ullam laborum facilis voluptas iste rerum repudiandae provident aut. Excepturi et omnis et optio illum numquam minus in accusantium. Qui nam sint sint.",
-            "hit": 547734,
-            "category": {
-                "id": 7
-            },
-            "user": {
-                "id": 10
-            },
-            "status": "rejected",
-            "status_color": "red",
-            "createdAt": "2022-05-07T14:13:03.350Z",
-            "publishedAt": "2023-05-23T07:31:55.450Z",
-            "image": [
-                {
-                    "url": "http://loremflickr.com/640/480/abstract",
-                    "name": "a119a22c-ab9c-40fb-ad4c-7a4b2c991efb",
-                    "status": "done",
-                    "type": "image/jpeg",
-                    "uid": "e80561e6-ab29-4d16-9d3d-42e63b289a4e"
-                }
-            ],
-            "tags": [
-                4
-            ],
-            "language": 1
-        },
-        {
-            "id": 7,
-            "title": "Possimus natus eaque perferendis atque.",
-            "slug": "repellat-sapiente-ut",
-            "content": "Id nisi cumque aliquam numquam pariatur officia animi. Ducimus rerum voluptate voluptatum repellendus et qui est. Nesciunt et placeat commodi minus. Cupiditate ratione ab enim et et libero omnis similique. Dolore commodi debitis voluptatibus repudiandae et quasi facere voluptas. Labore ut eum ut. Consequuntur est aperiam. Consectetur eius pariatur inventore nihil corporis. Labore cum unde quia est exercitationem quae eligendi. Tempora beatae assumenda vero.",
-            "hit": 116650,
-            "category": {
-                "id": 5
-            },
-            "user": {
-                "id": 48
-            },
-            "status": "draft",
-            "status_color": "orange",
-            "createdAt": "2022-09-01T03:52:57.494Z",
-            "publishedAt": "2024-01-26T07:43:46.526Z",
-            "image": [
-                {
-                    "url": "http://loremflickr.com/640/480/abstract",
-                    "name": "5e5f2c27-0cb3-4387-9187-b5c4128ae42d",
-                    "status": "done",
-                    "type": "image/jpeg",
-                    "uid": "e5d78b18-2de3-48a3-902c-0b04d9ceb66d"
-                }
-            ],
-            "tags": [
-                7,
-                3
-            ],
-            "language": 3
         }
     ],
     "categories": [
