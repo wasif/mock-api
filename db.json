@@ -127,19 +127,19 @@
             "author": "test author",
             "isbn": "9453454234324234",
             "genre": "test genre",
-            "quantity_available": "10",
-            "quantity_checked_out": "1",
+            "quantity_available": 10,
+            "quantity_checked_out": 1,
             "description": "test descr",
             "book_cover": "https://m.media-amazon.com/images/I/61BTafHPRAL._SY466_.jpg"
         },
         {
             "id": 2,
-            "title": "book two"
+            "title": "book two",
             "author": "test author",
             "isbn": "94534542343247964",
             "genre": "test genre two",
-            "quantity_available": "2",
-            "quantity_checked_out": "0",
+            "quantity_available": 2,
+            "quantity_checked_out": 0,
             "description": "test descr two",
             "book_cover": "https://m.media-amazon.com/images/I/61BTafHPRAL._SY466_.jpg"
         }
